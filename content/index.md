@@ -1,6 +1,6 @@
 ---
-title: nekonekohead wiki   
-description: oh no.
+title: AHA   
+description: seals
 ---
 
 
